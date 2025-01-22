@@ -54,9 +54,7 @@ python tarin.py
 python test.py
 ```
 
-### 版本控制
 
-该项目使用Git进行版本管理。您可以在repository参看当前可用版本。
 
 ### 作者
 
