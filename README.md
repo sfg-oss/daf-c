@@ -12,7 +12,7 @@ edge detection
 - [数据集](#数据集)
 - [训练与推理](#执行)
 - [作者](#作者)
-
+- [引用](#引用)
 
 
 
@@ -62,6 +62,11 @@ wht，有问题可通过邮箱联系，后续代码会持续更新ing
 
  *您也可以在贡献者名单中参看所有参与该项目的开发者。*
 
+## Citation
+If you find this work useful, please cite our paper:
+
+**Enhanced Edge Detection via Dual-Branch Attention Fusion with Canny-Assisted Supervision**  
+*The Visual Computer*
 
 
 
