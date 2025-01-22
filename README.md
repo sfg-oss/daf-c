@@ -1,5 +1,4 @@
 # daf-c
-edge detection
 论文名字为Enhanced Edge Detection via Dual-Branch Attention Fusion with Canny-Assisted Supervision，目前投稿在The visual computer,下面是我们代码的一些细节
 
 # ProjectName
